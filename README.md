@@ -1,2 +1,2 @@
-# TextAnalysisPrep
-Preparation for Text analysis.
+# Text Analysis Preparation
+In order to properly analyze texts, for example, finding frequencies of words occurences or checking similarity of documents, data must be first prepared accordingly to what one want to do. However before further more specific customization, the basic preparation is done. It consists of tokenizing (way of spliting texts into elements), removing stopwords (words that does not impact meaning of a text, e. g.: "the", "a"...) and stemming words (deploying, deployment etc. -> deploy). Such prepration is shown on a example of Hamlet, where each step is taken, and an esemplary analysis is performed. This analysis says what words occur more than 100 times in Hamlet text. Program is written in python.
